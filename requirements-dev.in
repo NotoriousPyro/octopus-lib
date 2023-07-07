@@ -1,0 +1,9 @@
+-c requirements-pip.txt  # to avoid conflicts
+-c requirements.txt
+black==23.3.0
+flake8==6.0.0
+mypy==1.0.1
+pylint==2.16.2
+pytest==7.2.1
+pytest-asyncio==0.20.3
+pytest-timeout==2.1.0

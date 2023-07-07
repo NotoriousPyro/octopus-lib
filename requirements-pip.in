@@ -1,0 +1,4 @@
+# From pip-tools documentation: pip-sync will not upgrade or uninstall packaging tools
+# like setuptools, pip, or pip-tools itself. Use python -m pip install --upgrade to upgrade those packages.
+pip==23.1.2
+pip-tools==6.13.0

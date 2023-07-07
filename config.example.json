@@ -1,0 +1,23 @@
+{
+    "api_key": "sk_live_1234567890",
+    "meters": [
+        {
+            "name": "electricity-export",
+            "type": "electricity",
+            "serial": "1234567890",
+            "mpn": "1234567890123"
+        },
+        {
+            "name": "electricity-import",
+            "type": "electricity",
+            "serial": "1234567890",
+            "mpn": "1234567890123"
+        },
+        {
+            "name": "gas-import",
+            "type": "gas",
+            "serial": "12345678901234",
+            "mpn": "1234567890"
+        }
+    ]
+}
